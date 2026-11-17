@@ -1,5 +1,7 @@
 # Adminer on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/adminer-1?utm_medium=integration&utm_source=button&utm_campaign=adminer)
+
 Railway template for [Adminer](https://www.adminer.org/), a database management tool in a single PHP file. It connects to MySQL, MariaDB, PostgreSQL, SQLite, MS SQL and Oracle out of the box.
 
 ## What it deploys

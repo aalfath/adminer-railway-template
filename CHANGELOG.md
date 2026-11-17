@@ -10,3 +10,4 @@ Read the entry before you apply an update in Railway.
 - `login-reverse-proxy` plugin enabled, so the failed-login lockout applies per client, not to everyone behind Railway's proxy.
 - `Secure` cookies behind Railway's HTTPS edge; uploads up to 256 MB.
 - Health check `/` and restart on failure are set in the Railway template, not in a `railway.json`.
+- README: Deploy on Railway button (template `adminer-1`).
